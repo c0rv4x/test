@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.7"
+script:
+  - echo "A test"
+notifications:
+  slack: scanfactoryworkspace:qTVIlmW5o3F6zI7nvOo41lVl
